@@ -1,6 +1,6 @@
 """
 This function is working with https://github.com/qiyeboy/IPProxyPool. If you want to connect server through proxy,
-you have to run IPProxyPool first, and the config has to identical. Making sure the pool has enough proxies.
+you have to run IPProxyPool first, and the configs has to be identical. Making sure the pool has enough proxies.
 """
 
 import requests
